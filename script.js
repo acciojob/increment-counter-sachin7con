@@ -1,5 +1,5 @@
 //SGN your JS code here. If required.
-let counter = document.getElementById("count");
+let counter = document.getElementsByTagName("p")[0];
 
 function countFunc() {
 	
